@@ -32,7 +32,7 @@ I've built several full-stack projects that showcase my skills in real-world dev
 I'm currently open to collaboration, freelance work, and full-time opportunities.  
 Feel free to reach out or explore my work here! <br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mirulkhan) 
-[![LinkedIn](https://www.linkedin.com/in/mirulmoktadirkhan/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirulmoktadirkhan/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moktadir.mirul@gmail.com)
 
 # 📊 GitHub Stats:
@@ -43,4 +43,6 @@ Feel free to reach out or explore my work here! <br>
 ---
 
 Thanks for visiting! 🌟
+
+
 
